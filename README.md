@@ -7,7 +7,7 @@
   github 主页：https://github.com/eastvpn/vpn
   ```
 * 安卓版下载：
-https://show.eastfast.vip
+https://pub.eastfast.vip
 
 * 唯一客服联系
 
