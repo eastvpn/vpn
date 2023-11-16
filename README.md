@@ -1,5 +1,5 @@
 # vpn
-闪电加速器 vpn
+闪电PRO加速器 vpn
 
 * 安卓版下载
 https://apple123000.oss-cn-beijing.aliyuncs.com/%E9%97%AA%E7%94%B5.apk"
