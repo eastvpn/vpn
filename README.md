@@ -2,7 +2,9 @@
 闪电Pro加速器
 
 * 安卓版下载
-https://apple123000.oss-cn-beijing.aliyuncs.com/%E9%97%AA%E7%94%B5.apk"
+```html
+https://pub.eastfast.vip/m/thunder_pro.apk
+```
 
 * 永不失联通告网址
   ```html
