@@ -3,15 +3,14 @@
 
 * 安卓版下载
 ```html
-https://pub.eastfast.vip/m/thunder_pro.apk
-```
+https://showfastagent.1688ali.site/m/
 
 * 永不失联通告网址
   ```html
   github 主页：https://github.com/eastvpn/vpn
   ```
 * 官网
-https://pub.eastfast.vip
+https://showfastagent.1688ali.site/m/
 
 * 唯一客服联系
 
